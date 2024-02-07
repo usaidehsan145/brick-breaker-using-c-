@@ -1,0 +1,13 @@
+﻿  myconsole.cpp
+F:\Semester 1\brick breaker\brick breaker\brick breaker\myconsole.cpp(184,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Semester 1\brick breaker\brick breaker\brick breaker\myconsole.cpp(185,32): warning C4305: '+=': truncation from 'double' to 'float'
+  mygraphics.cpp
+F:\Semester 1\brick breaker\brick breaker\brick breaker\mygraphics.cpp(110,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Semester 1\brick breaker\brick breaker\brick breaker\mygraphics.cpp(110,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+F:\Semester 1\brick breaker\brick breaker\brick breaker\Source.cpp(312,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 1\brick breaker\brick breaker\brick breaker\Source.cpp(712,13): warning C4129: '-': unrecognized character escape sequence
+F:\Semester 1\brick breaker\brick breaker\brick breaker\Source.cpp(713,13): warning C4129: '|': unrecognized character escape sequence
+F:\Semester 1\brick breaker\brick breaker\brick breaker\Source.cpp(714,13): warning C4129: '-': unrecognized character escape sequence
+  Generating Code...
+  brick breaker.vcxproj -> F:\Semester 1\brick breaker\brick breaker\Debug\brick breaker.exe
