@@ -34,7 +34,5 @@ To run the game:
 - Use the left and right arrow keys to move the bat.
 - Press 'Esc' to pause the game and access the menu.
 - Select options from the menu using the arrow keys and 'Enter'.
-
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+- Find source.cpp and run it in the C++ compiler
+- make sure the dependencies files are in the same directory as the source.cpp
